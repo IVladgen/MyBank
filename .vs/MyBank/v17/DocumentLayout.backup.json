@@ -1,0 +1,1492 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1475DB5E-43F8-4A1A-A4AF-C9E4B891FF3A}|MyBank.API\\MyBank.API.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1475DB5E-43F8-4A1A-A4AF-C9E4B891FF3A}|MyBank.API\\MyBank.API.csproj|solutionrelative:mybank.api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1475DB5E-43F8-4A1A-A4AF-C9E4B891FF3A}|MyBank.API\\MyBank.API.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1475DB5E-43F8-4A1A-A4AF-C9E4B891FF3A}|MyBank.API\\MyBank.API.csproj|solutionrelative:mybank.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.infrastructure\\services\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|solutionrelative:mybank.infrastructure\\services\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.infrastructure\\cache\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|solutionrelative:mybank.infrastructure\\cache\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\handlers\\commands\\account\\createaccounthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\handlers\\commands\\account\\createaccounthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\behaviors\\unitofworkbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\behaviors\\unitofworkbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\AppData\\Roaming\\Microsoft\\UserSecrets\\7a347c4e-f593-462e-a739-8cdc11dfc23f\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1475DB5E-43F8-4A1A-A4AF-C9E4B891FF3A}|MyBank.API\\MyBank.API.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.api\\hostedservices\\currencyhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1475DB5E-43F8-4A1A-A4AF-C9E4B891FF3A}|MyBank.API\\MyBank.API.csproj|solutionrelative:mybank.api\\hostedservices\\currencyhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\handlers\\commands\\account\\fundingaccounthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\handlers\\commands\\account\\fundingaccounthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\handlers\\commands\\transfers\\moneytransferhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\handlers\\commands\\transfers\\moneytransferhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\interfaces\\services\\icurrencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\interfaces\\services\\icurrencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\dto\\setcachecurrencydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\dto\\setcachecurrencydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\behaviors\\exceptionhandlingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\behaviors\\exceptionhandlingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\valueobjects\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\valueobjects\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.infrastructure\\dependensyinjection\\dependensyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|solutionrelative:mybank.infrastructure\\dependensyinjection\\dependensyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\handlers\\queries\\getuseraccountdatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\handlers\\queries\\getuseraccountdatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\interfaces\\cache\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\interfaces\\cache\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.infrastructure\\configurations\\accountconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|solutionrelative:mybank.infrastructure\\configurations\\accountconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\handlers\\queries\\gettransfersofaccounthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\handlers\\queries\\gettransfersofaccounthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\handlers\\queries\\getaccountsbynumberphonehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\handlers\\queries\\getaccountsbynumberphonehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\handlers\\queries\\getuseraccounthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\handlers\\queries\\getuseraccounthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\response\\account\\accountresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\response\\account\\accountresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\queries\\getaccountsbynumberphonequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\queries\\getaccountsbynumberphonequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1475DB5E-43F8-4A1A-A4AF-C9E4B891FF3A}|MyBank.API\\MyBank.API.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.api\\mybank.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1475DB5E-43F8-4A1A-A4AF-C9E4B891FF3A}|MyBank.API\\MyBank.API.csproj|solutionrelative:mybank.api\\mybank.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1475DB5E-43F8-4A1A-A4AF-C9E4B891FF3A}|MyBank.API\\MyBank.API.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.api\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1475DB5E-43F8-4A1A-A4AF-C9E4B891FF3A}|MyBank.API\\MyBank.API.csproj|solutionrelative:mybank.api\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\entity\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\entity\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.infrastructure\\context\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|solutionrelative:mybank.infrastructure\\context\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\helpers\\cachekeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\helpers\\cachekeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1475DB5E-43F8-4A1A-A4AF-C9E4B891FF3A}|MyBank.API\\MyBank.API.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.api\\swagger\\swaggerstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1475DB5E-43F8-4A1A-A4AF-C9E4B891FF3A}|MyBank.API\\MyBank.API.csproj|solutionrelative:mybank.api\\swagger\\swaggerstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.infrastructure\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|solutionrelative:mybank.infrastructure\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.infrastructure\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|solutionrelative:mybank.infrastructure\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|solutionrelative:mybank.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\valueobjects\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\valueobjects\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.infrastructure\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|solutionrelative:mybank.infrastructure\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\entity\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\entity\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\enums\\curren\u0441ycode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\enums\\curren\u0441ycode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\response\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\response\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\response\\account\\createaccountresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\response\\account\\createaccountresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1475DB5E-43F8-4A1A-A4AF-C9E4B891FF3A}|MyBank.API\\MyBank.API.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1475DB5E-43F8-4A1A-A4AF-C9E4B891FF3A}|MyBank.API\\MyBank.API.csproj|solutionrelative:mybank.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\dto\\createaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\dto\\createaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.infrastructure\\mybank.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|solutionrelative:mybank.infrastructure\\mybank.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\dependensyinjection\\dependensyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\dependensyinjection\\dependensyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.infrastructure\\accounttransfers.frx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|solutionrelative:mybank.infrastructure\\accounttransfers.frx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\commands\\account\\createaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\commands\\account\\createaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|solutionrelative:mybank.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\mapping\\accountmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\mapping\\accountmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\dto\\getaccountsbynumberphonedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\dto\\getaccountsbynumberphonedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\interfaces\\repository\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\interfaces\\repository\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\interfaces\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\interfaces\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\queries\\gettransfersofaccountquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\queries\\gettransfersofaccountquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\response\\account\\getaccountsbynumberphoneresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\response\\account\\getaccountsbynumberphoneresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.infrastructure\\repository\\transferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|solutionrelative:mybank.infrastructure\\repository\\transferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\mapping\\transfermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\mapping\\transfermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\dto\\gettransfersofaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\dto\\gettransfersofaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\response\\transfer\\gettransfersofaccountresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\response\\transfer\\gettransfersofaccountresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\commands\\account\\fundingaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\commands\\account\\fundingaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\dto\\fundingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\dto\\fundingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\queries\\getuserdataquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\queries\\getuserdataquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\queries\\getuseraccountsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\queries\\getuseraccountsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\mapping\\usermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\mapping\\usermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\interfaces\\repository\\itransferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\interfaces\\repository\\itransferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\commands\\transfers\\moneytransfercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\commands\\transfers\\moneytransfercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\handlers\\commands\\user\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\handlers\\commands\\user\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\mybank.application\\recourses\\errormessages.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\recourses\\errormessages.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\response\\transfer\\transferresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\response\\transfer\\transferresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\commands\\user\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\commands\\user\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1475DB5E-43F8-4A1A-A4AF-C9E4B891FF3A}|MyBank.API\\MyBank.API.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1475DB5E-43F8-4A1A-A4AF-C9E4B891FF3A}|MyBank.API\\MyBank.API.csproj|solutionrelative:mybank.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\handlers\\commands\\user\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\handlers\\commands\\user\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\response\\users\\getuserdataresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\response\\users\\getuserdataresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\interfaces\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\interfaces\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.infrastructure\\implement\\auth\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|solutionrelative:mybank.infrastructure\\implement\\auth\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1475DB5E-43F8-4A1A-A4AF-C9E4B891FF3A}|MyBank.API\\MyBank.API.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1475DB5E-43F8-4A1A-A4AF-C9E4B891FF3A}|MyBank.API\\MyBank.API.csproj|solutionrelative:mybank.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.infrastructure\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1578A2-A12A-4600-A798-A8D1B8EF1BB2}|MyBank.Infrastructure\\MyBank.Infrastructure.csproj|solutionrelative:mybank.infrastructure\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\response\\users\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\response\\users\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\response\\users\\loginuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\response\\users\\loginuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\handlers\\token\\refreshtokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\handlers\\token\\refreshtokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\commands\\token\\refreshtokencommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\commands\\token\\refreshtokencommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\commands\\user\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\commands\\user\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1475DB5E-43F8-4A1A-A4AF-C9E4B891FF3A}|MyBank.API\\MyBank.API.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.api\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1475DB5E-43F8-4A1A-A4AF-C9E4B891FF3A}|MyBank.API\\MyBank.API.csproj|solutionrelative:mybank.api\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\options\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\options\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\interfaces\\context\\iusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\interfaces\\context\\iusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.application\\mybank.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B914F3E-0AC4-42D8-A5AF-2E7984D037CF}|MyBank.Application\\MyBank.Application.csproj|solutionrelative:mybank.application\\mybank.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\mybank.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\mybank.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\response\\account\\fundingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\response\\account\\fundingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\response\\token\\refreshresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\response\\token\\refreshresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\dto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\dto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|c:\\users\\\u0440\u0430\u0431\u043E\u0442\u0430\\source\\repos\\mybank\\mybank.domain\\interfaces\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47234341-8C97-4D9E-906C-34592B832857}|MyBank.Domain\\MyBank.Domain.csproj|solutionrelative:mybank.domain\\interfaces\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MoneyTransferHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Handlers\\Commands\\Transfers\\MoneyTransferHandler.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Handlers\\Commands\\Transfers\\MoneyTransferHandler.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Handlers\\Commands\\Transfers\\MoneyTransferHandler.cs",
+              "RelativeToolTip": "MyBank.Application\\Handlers\\Commands\\Transfers\\MoneyTransferHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAMwDMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:10:08.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "MyBank.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "MyBank.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:44:42.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICurrencyService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Interfaces\\Services\\ICurrencyService.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\Interfaces\\Services\\ICurrencyService.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Interfaces\\Services\\ICurrencyService.cs",
+              "RelativeToolTip": "MyBank.Domain\\Interfaces\\Services\\ICurrencyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T23:14:59.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWorkBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Behaviors\\UnitOfWorkBehavior.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Behaviors\\UnitOfWorkBehavior.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Behaviors\\UnitOfWorkBehavior.cs",
+              "RelativeToolTip": "MyBank.Application\\Behaviors\\UnitOfWorkBehavior.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAArwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:58:22.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrencyService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\Services\\CurrencyService.cs",
+              "RelativeDocumentMoniker": "MyBank.Infrastructure\\Services\\CurrencyService.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\Services\\CurrencyService.cs",
+              "RelativeToolTip": "MyBank.Infrastructure\\Services\\CurrencyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T23:25:52.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateAccountHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Handlers\\Commands\\Account\\CreateAccountHandler.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Handlers\\Commands\\Account\\CreateAccountHandler.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Handlers\\Commands\\Account\\CreateAccountHandler.cs",
+              "RelativeToolTip": "MyBank.Application\\Handlers\\Commands\\Account\\CreateAccountHandler.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAArwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:32:05.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\Cache\\CacheService.cs",
+              "RelativeDocumentMoniker": "MyBank.Infrastructure\\Cache\\CacheService.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\Cache\\CacheService.cs",
+              "RelativeToolTip": "MyBank.Infrastructure\\Cache\\CacheService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAArwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:28:56.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.API\\Program.cs",
+              "RelativeDocumentMoniker": "MyBank.API\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.API\\Program.cs",
+              "RelativeToolTip": "MyBank.API\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:31:16.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FundingAccountHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Handlers\\Commands\\Account\\FundingAccountHandler.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Handlers\\Commands\\Account\\FundingAccountHandler.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Handlers\\Commands\\Account\\FundingAccountHandler.cs",
+              "RelativeToolTip": "MyBank.Application\\Handlers\\Commands\\Account\\FundingAccountHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:54:36.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CurrencyHostedService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.API\\HostedServices\\CurrencyHostedService.cs",
+              "RelativeDocumentMoniker": "MyBank.API\\HostedServices\\CurrencyHostedService.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.API\\HostedServices\\CurrencyHostedService.cs",
+              "RelativeToolTip": "MyBank.API\\HostedServices\\CurrencyHostedService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:38:05.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SetCacheCurrencyDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\DTO\\SetCacheCurrencyDto.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\DTO\\SetCacheCurrencyDto.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\DTO\\SetCacheCurrencyDto.cs",
+              "RelativeToolTip": "MyBank.Domain\\DTO\\SetCacheCurrencyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T01:12:32.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExceptionHandlingBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Behaviors\\ExceptionHandlingBehavior.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Behaviors\\ExceptionHandlingBehavior.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Behaviors\\ExceptionHandlingBehavior.cs",
+              "RelativeToolTip": "MyBank.Application\\Behaviors\\ExceptionHandlingBehavior.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:03:10.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\ValueObjects\\Currency.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\ValueObjects\\Currency.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\ValueObjects\\Currency.cs",
+              "RelativeToolTip": "MyBank.Domain\\ValueObjects\\Currency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T01:25:30.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DependensyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\DependensyInjection\\DependensyInjection.cs",
+              "RelativeDocumentMoniker": "MyBank.Infrastructure\\DependensyInjection\\DependensyInjection.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\DependensyInjection\\DependensyInjection.cs",
+              "RelativeToolTip": "MyBank.Infrastructure\\DependensyInjection\\DependensyInjection.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:49:21.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetUserAccountDataHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Handlers\\Queries\\GetUserAccountDataHandler.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Handlers\\Queries\\GetUserAccountDataHandler.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Handlers\\Queries\\GetUserAccountDataHandler.cs",
+              "RelativeToolTip": "MyBank.Application\\Handlers\\Queries\\GetUserAccountDataHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAMwBsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:53:18.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Interfaces\\Cache\\ICacheService.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\Interfaces\\Cache\\ICacheService.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Interfaces\\Cache\\ICacheService.cs",
+              "RelativeToolTip": "MyBank.Domain\\Interfaces\\Cache\\ICacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:26:57.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccountConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\Configurations\\AccountConfiguration.cs",
+              "RelativeDocumentMoniker": "MyBank.Infrastructure\\Configurations\\AccountConfiguration.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\Configurations\\AccountConfiguration.cs",
+              "RelativeToolTip": "MyBank.Infrastructure\\Configurations\\AccountConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T20:08:20.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetTransfersOfAccountHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Handlers\\Queries\\GetTransfersOfAccountHandler.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Handlers\\Queries\\GetTransfersOfAccountHandler.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Handlers\\Queries\\GetTransfersOfAccountHandler.cs",
+              "RelativeToolTip": "MyBank.Application\\Handlers\\Queries\\GetTransfersOfAccountHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T23:35:27.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetAccountsByNumberPhoneHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Handlers\\Queries\\GetAccountsByNumberPhoneHandler.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Handlers\\Queries\\GetAccountsByNumberPhoneHandler.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Handlers\\Queries\\GetAccountsByNumberPhoneHandler.cs",
+              "RelativeToolTip": "MyBank.Application\\Handlers\\Queries\\GetAccountsByNumberPhoneHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:38:31.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetUserAccountHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Handlers\\Queries\\GetUserAccountHandler.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Handlers\\Queries\\GetUserAccountHandler.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Handlers\\Queries\\GetUserAccountHandler.cs",
+              "RelativeToolTip": "MyBank.Application\\Handlers\\Queries\\GetUserAccountHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:02:38.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccountResponse.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Response\\Account\\AccountResponse.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\Response\\Account\\AccountResponse.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Response\\Account\\AccountResponse.cs",
+              "RelativeToolTip": "MyBank.Domain\\Response\\Account\\AccountResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:25:32.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetAccountsByNumberPhoneQuery.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Queries\\GetAccountsByNumberPhoneQuery.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Queries\\GetAccountsByNumberPhoneQuery.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Queries\\GetAccountsByNumberPhoneQuery.cs",
+              "RelativeToolTip": "MyBank.Application\\Queries\\GetAccountsByNumberPhoneQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:29:51.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MyBank.API.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.API\\MyBank.API.csproj",
+              "RelativeDocumentMoniker": "MyBank.API\\MyBank.API.csproj",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.API\\MyBank.API.csproj",
+              "RelativeToolTip": "MyBank.API\\MyBank.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T12:38:10.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.API\\Settings\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "MyBank.API\\Settings\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.API\\Settings\\JwtSettings.cs",
+              "RelativeToolTip": "MyBank.API\\Settings\\JwtSettings.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:38:36.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Entity\\Account.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\Entity\\Account.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Entity\\Account.cs",
+              "RelativeToolTip": "MyBank.Domain\\Entity\\Account.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T15:31:00.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\Context\\UserContext.cs",
+              "RelativeDocumentMoniker": "MyBank.Infrastructure\\Context\\UserContext.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\Context\\UserContext.cs",
+              "RelativeToolTip": "MyBank.Infrastructure\\Context\\UserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:53:56.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CacheKeys.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Helpers\\CacheKeys.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Helpers\\CacheKeys.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Helpers\\CacheKeys.cs",
+              "RelativeToolTip": "MyBank.Application\\Helpers\\CacheKeys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T22:26:43.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SwaggerStartup.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.API\\Swagger\\SwaggerStartup.cs",
+              "RelativeDocumentMoniker": "MyBank.API\\Swagger\\SwaggerStartup.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.API\\Swagger\\SwaggerStartup.cs",
+              "RelativeToolTip": "MyBank.API\\Swagger\\SwaggerStartup.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:37:54.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\Repository\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "MyBank.Infrastructure\\Repository\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\Repository\\AccountRepository.cs",
+              "RelativeToolTip": "MyBank.Infrastructure\\Repository\\AccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:47:28.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MyBank.Infrastructure\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "MyBank.Infrastructure\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:01:55.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "MyBank.Infrastructure\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\UnitOfWork.cs",
+              "RelativeToolTip": "MyBank.Infrastructure\\UnitOfWork.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:10:09.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\ValueObjects\\Token.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\ValueObjects\\Token.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\ValueObjects\\Token.cs",
+              "RelativeToolTip": "MyBank.Domain\\ValueObjects\\Token.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T08:52:46.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "MyBank.Infrastructure\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "MyBank.Infrastructure\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T20:07:35.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Transfer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Entity\\Transfer.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\Entity\\Transfer.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Entity\\Transfer.cs",
+              "RelativeToolTip": "MyBank.Domain\\Entity\\Transfer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T15:40:04.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Curren\u0441yCode.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Enums\\Curren\u0441yCode.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\Enums\\Curren\u0441yCode.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Enums\\Curren\u0441yCode.cs",
+              "RelativeToolTip": "MyBank.Domain\\Enums\\Curren\u0441yCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T01:57:47.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Entity\\User.cs",
+              "RelativeToolTip": "MyBank.Domain\\Entity\\User.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwCEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:58:16.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Response\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\Response\\BaseResponse.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Response\\BaseResponse.cs",
+              "RelativeToolTip": "MyBank.Domain\\Response\\BaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:13:13.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateAccountResponse.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Response\\Account\\CreateAccountResponse.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\Response\\Account\\CreateAccountResponse.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Response\\Account\\CreateAccountResponse.cs",
+              "RelativeToolTip": "MyBank.Domain\\Response\\Account\\CreateAccountResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:22:21.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MyBank.API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MyBank.API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:16:33.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CreateAccountDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\DTO\\CreateAccountDto.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\DTO\\CreateAccountDto.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\DTO\\CreateAccountDto.cs",
+              "RelativeToolTip": "MyBank.Domain\\DTO\\CreateAccountDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:12:41.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MyBank.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\MyBank.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "MyBank.Infrastructure\\MyBank.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\MyBank.Infrastructure.csproj",
+              "RelativeToolTip": "MyBank.Infrastructure\\MyBank.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-22T23:25:08.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DependensyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\DependensyInjection\\DependensyInjection.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\DependensyInjection\\DependensyInjection.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\DependensyInjection\\DependensyInjection.cs",
+              "RelativeToolTip": "MyBank.Application\\DependensyInjection\\DependensyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:20:37.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AccountTransfers.frx",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\AccountTransfers.frx",
+              "RelativeDocumentMoniker": "MyBank.Infrastructure\\AccountTransfers.frx",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\AccountTransfers.frx",
+              "RelativeToolTip": "MyBank.Infrastructure\\AccountTransfers.frx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-24T23:08:34.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CreateAccountCommand.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Commands\\Account\\CreateAccountCommand.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Commands\\Account\\CreateAccountCommand.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Commands\\Account\\CreateAccountCommand.cs",
+              "RelativeToolTip": "MyBank.Application\\Commands\\Account\\CreateAccountCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:31:37.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MyBank.Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "MyBank.Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T20:04:15.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Services\\TokenService.cs",
+              "RelativeToolTip": "MyBank.Application\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAABBwAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:57:08.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AccountMapping.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Mapping\\AccountMapping.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Mapping\\AccountMapping.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Mapping\\AccountMapping.cs",
+              "RelativeToolTip": "MyBank.Application\\Mapping\\AccountMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:30:55.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GetAccountsByNumberPhoneDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\DTO\\GetAccountsByNumberPhoneDto.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\DTO\\GetAccountsByNumberPhoneDto.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\DTO\\GetAccountsByNumberPhoneDto.cs",
+              "RelativeToolTip": "MyBank.Domain\\DTO\\GetAccountsByNumberPhoneDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:01:44.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Interfaces\\Repository\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\Interfaces\\Repository\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Interfaces\\Repository\\IAccountRepository.cs",
+              "RelativeToolTip": "MyBank.Domain\\Interfaces\\Repository\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:39:53.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Interfaces\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\Interfaces\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Interfaces\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "MyBank.Domain\\Interfaces\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:02:56.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GetTransfersOfAccountQuery.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Queries\\GetTransfersOfAccountQuery.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Queries\\GetTransfersOfAccountQuery.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Queries\\GetTransfersOfAccountQuery.cs",
+              "RelativeToolTip": "MyBank.Application\\Queries\\GetTransfersOfAccountQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T23:23:02.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GetAccountsByNumberPhoneResponse.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Response\\Account\\GetAccountsByNumberPhoneResponse.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\Response\\Account\\GetAccountsByNumberPhoneResponse.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Response\\Account\\GetAccountsByNumberPhoneResponse.cs",
+              "RelativeToolTip": "MyBank.Domain\\Response\\Account\\GetAccountsByNumberPhoneResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:32:39.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TransferRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\Repository\\TransferRepository.cs",
+              "RelativeDocumentMoniker": "MyBank.Infrastructure\\Repository\\TransferRepository.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\Repository\\TransferRepository.cs",
+              "RelativeToolTip": "MyBank.Infrastructure\\Repository\\TransferRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:01:12.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "TransferMapping.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Mapping\\TransferMapping.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Mapping\\TransferMapping.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Mapping\\TransferMapping.cs",
+              "RelativeToolTip": "MyBank.Application\\Mapping\\TransferMapping.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAABRwBcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T01:09:41.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GetTransfersOfAccountDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\DTO\\GetTransfersOfAccountDto.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\DTO\\GetTransfersOfAccountDto.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\DTO\\GetTransfersOfAccountDto.cs",
+              "RelativeToolTip": "MyBank.Domain\\DTO\\GetTransfersOfAccountDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:30:39.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "GetTransfersOfAccountResponse.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Response\\Transfer\\GetTransfersOfAccountResponse.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\Response\\Transfer\\GetTransfersOfAccountResponse.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Response\\Transfer\\GetTransfersOfAccountResponse.cs",
+              "RelativeToolTip": "MyBank.Domain\\Response\\Transfer\\GetTransfersOfAccountResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T00:14:37.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FundingAccountCommand.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Commands\\Account\\FundingAccountCommand.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Commands\\Account\\FundingAccountCommand.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Commands\\Account\\FundingAccountCommand.cs",
+              "RelativeToolTip": "MyBank.Application\\Commands\\Account\\FundingAccountCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:05:20.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FundingDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\DTO\\FundingDto.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\DTO\\FundingDto.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\DTO\\FundingDto.cs",
+              "RelativeToolTip": "MyBank.Domain\\DTO\\FundingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:02:30.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "GetUserDataQuery.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Queries\\GetUserDataQuery.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Queries\\GetUserDataQuery.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Queries\\GetUserDataQuery.cs",
+              "RelativeToolTip": "MyBank.Application\\Queries\\GetUserDataQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:50:44.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "GetUserAccountsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Queries\\GetUserAccountsQuery.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Queries\\GetUserAccountsQuery.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Queries\\GetUserAccountsQuery.cs",
+              "RelativeToolTip": "MyBank.Application\\Queries\\GetUserAccountsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:10:52.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UserMapping.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Mapping\\UserMapping.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Mapping\\UserMapping.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Mapping\\UserMapping.cs",
+              "RelativeToolTip": "MyBank.Application\\Mapping\\UserMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:20:30.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ITransferRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Interfaces\\Repository\\ITransferRepository.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\Interfaces\\Repository\\ITransferRepository.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Interfaces\\Repository\\ITransferRepository.cs",
+              "RelativeToolTip": "MyBank.Domain\\Interfaces\\Repository\\ITransferRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T22:55:19.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "MoneyTransferCommand.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Commands\\Transfers\\MoneyTransferCommand.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Commands\\Transfers\\MoneyTransferCommand.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Commands\\Transfers\\MoneyTransferCommand.cs",
+              "RelativeToolTip": "MyBank.Application\\Commands\\Transfers\\MoneyTransferCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:10:09.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CreateUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Handlers\\Commands\\User\\CreateUserHandler.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Handlers\\Commands\\User\\CreateUserHandler.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Handlers\\Commands\\User\\CreateUserHandler.cs",
+              "RelativeToolTip": "MyBank.Application\\Handlers\\Commands\\User\\CreateUserHandler.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAABRwCwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:42:10.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ErrorMessages.resx",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Recourses\\ErrorMessages.resx",
+              "RelativeDocumentMoniker": "MyBank.Application\\Recourses\\ErrorMessages.resx",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Recourses\\ErrorMessages.resx",
+              "RelativeToolTip": "MyBank.Application\\Recourses\\ErrorMessages.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-06T12:51:29.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "TransferResponse.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Response\\Transfer\\TransferResponse.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\Response\\Transfer\\TransferResponse.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Response\\Transfer\\TransferResponse.cs",
+              "RelativeToolTip": "MyBank.Domain\\Response\\Transfer\\TransferResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:10:06.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\DTO\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\DTO\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\DTO\\CreateUserDto.cs",
+              "RelativeToolTip": "MyBank.Domain\\DTO\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:55:51.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Commands\\User\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Commands\\User\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Commands\\User\\CreateUserCommand.cs",
+              "RelativeToolTip": "MyBank.Application\\Commands\\User\\CreateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:32:26.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MyBank.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MyBank.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAABRwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:14:21.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "LoginUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Handlers\\Commands\\User\\LoginUserHandler.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Handlers\\Commands\\User\\LoginUserHandler.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Handlers\\Commands\\User\\LoginUserHandler.cs",
+              "RelativeToolTip": "MyBank.Application\\Handlers\\Commands\\User\\LoginUserHandler.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAMwEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:32:55.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "GetUserDataResponse.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Response\\Users\\GetUserDataResponse.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\Response\\Users\\GetUserDataResponse.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Response\\Users\\GetUserDataResponse.cs",
+              "RelativeToolTip": "MyBank.Domain\\Response\\Users\\GetUserDataResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:05:47.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Interfaces\\Repository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\Interfaces\\Repository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Interfaces\\Repository\\IUnitOfWork.cs",
+              "RelativeToolTip": "MyBank.Domain\\Interfaces\\Repository\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:10:09.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\Implement\\Auth\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "MyBank.Infrastructure\\Implement\\Auth\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\Implement\\Auth\\PasswordHasher.cs",
+              "RelativeToolTip": "MyBank.Infrastructure\\Implement\\Auth\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T22:36:38.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\AppData\\Roaming\\Microsoft\\UserSecrets\\7a347c4e-f593-462e-a739-8cdc11dfc23f\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\7a347c4e-f593-462e-a739-8cdc11dfc23f\\secrets.json",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\AppData\\Roaming\\Microsoft\\UserSecrets\\7a347c4e-f593-462e-a739-8cdc11dfc23f\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\7a347c4e-f593-462e-a739-8cdc11dfc23f\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T08:18:00.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.API\\appsettings.json",
+              "RelativeDocumentMoniker": "MyBank.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.API\\appsettings.json",
+              "RelativeToolTip": "MyBank.API\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAEBVwCoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T15:59:40.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "MyBank.Infrastructure\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Infrastructure\\AppDbContextFactory.cs",
+              "RelativeToolTip": "MyBank.Infrastructure\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T04:29:22.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "CreateUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Response\\Users\\CreateUserResponse.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\Response\\Users\\CreateUserResponse.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Response\\Users\\CreateUserResponse.cs",
+              "RelativeToolTip": "MyBank.Domain\\Response\\Users\\CreateUserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:27:49.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "LoginUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Response\\Users\\LoginUserResponse.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\Response\\Users\\LoginUserResponse.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Response\\Users\\LoginUserResponse.cs",
+              "RelativeToolTip": "MyBank.Domain\\Response\\Users\\LoginUserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:29:41.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "RefreshTokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Handlers\\Token\\RefreshTokenHandler.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Handlers\\Token\\RefreshTokenHandler.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Handlers\\Token\\RefreshTokenHandler.cs",
+              "RelativeToolTip": "MyBank.Application\\Handlers\\Token\\RefreshTokenHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAABhwBoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:58:35.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "TokenDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\DTO\\TokenDto.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\DTO\\TokenDto.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\DTO\\TokenDto.cs",
+              "RelativeToolTip": "MyBank.Domain\\DTO\\TokenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:42:29.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "RefreshTokenCommand.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Commands\\Token\\RefreshTokenCommand.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Commands\\Token\\RefreshTokenCommand.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Commands\\Token\\RefreshTokenCommand.cs",
+              "RelativeToolTip": "MyBank.Application\\Commands\\Token\\RefreshTokenCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:44:50.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "LoginUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Commands\\User\\LoginUserCommand.cs",
+              "RelativeDocumentMoniker": "MyBank.Application\\Commands\\User\\LoginUserCommand.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\Commands\\User\\LoginUserCommand.cs",
+              "RelativeToolTip": "MyBank.Application\\Commands\\User\\LoginUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:06:56.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.API\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "MyBank.API\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.API\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "MyBank.API\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:12:35.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "TokenOptions.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Options\\TokenOptions.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\Options\\TokenOptions.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Options\\TokenOptions.cs",
+              "RelativeToolTip": "MyBank.Domain\\Options\\TokenOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T16:02:06.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "IUserContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Interfaces\\Context\\IUserContext.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\Interfaces\\Context\\IUserContext.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Interfaces\\Context\\IUserContext.cs",
+              "RelativeToolTip": "MyBank.Domain\\Interfaces\\Context\\IUserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:52:53.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "MyBank.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\MyBank.Application.csproj",
+              "RelativeDocumentMoniker": "MyBank.Application\\MyBank.Application.csproj",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Application\\MyBank.Application.csproj",
+              "RelativeToolTip": "MyBank.Application\\MyBank.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T07:11:11.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "MyBank.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\MyBank.Domain.csproj",
+              "RelativeDocumentMoniker": "MyBank.Domain\\MyBank.Domain.csproj",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\MyBank.Domain.csproj",
+              "RelativeToolTip": "MyBank.Domain\\MyBank.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T21:10:08.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "FundingResponse.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Response\\Account\\FundingResponse.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\Response\\Account\\FundingResponse.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Response\\Account\\FundingResponse.cs",
+              "RelativeToolTip": "MyBank.Domain\\Response\\Account\\FundingResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T16:59:41.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "RefreshResponse.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Response\\Token\\RefreshResponse.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\Response\\Token\\RefreshResponse.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Response\\Token\\RefreshResponse.cs",
+              "RelativeToolTip": "MyBank.Domain\\Response\\Token\\RefreshResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:56:26.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "LoginUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\DTO\\LoginUserDto.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\DTO\\LoginUserDto.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\DTO\\LoginUserDto.cs",
+              "RelativeToolTip": "MyBank.Domain\\DTO\\LoginUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:28:36.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Interfaces\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "MyBank.Domain\\Interfaces\\Services\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0430\u0431\u043E\u0442\u0430\\source\\repos\\MyBank\\MyBank.Domain\\Interfaces\\Services\\ITokenService.cs",
+              "RelativeToolTip": "MyBank.Domain\\Interfaces\\Services\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T16:03:09.784Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
